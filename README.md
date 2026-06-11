@@ -24,4 +24,4 @@ This project analyzes customer transactions and behavior to identify customer se
 - Generated actionable business recommendations.
 
 # Note
-Some CSV files may be too large for GitHub preview, but they can be downloaded directly from the repository.
+Some CSV files may be too large for GitHub preview, drive:https://drive.google.com/drive/folders/1xomxO095ykS4uA1mO3k4IJH3e9FFgCtf?usp=sharing
